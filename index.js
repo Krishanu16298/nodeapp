@@ -5,7 +5,7 @@ app.set('view engine', 'ejs');
 
 app.get('/',(req, res) => {
     res.render('index', {
-        title:'Shubham'
+        title:'Krishanu'
     });
     console.log('Running ..');
 });
